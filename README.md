@@ -3,11 +3,11 @@ Plans for enclosures for chickens, including 3D CAD models, manufacturing drawin
 
 The first complete version of this enclosure uses u-bolts to attach the hoop to the frame.
 
-[View the model in your browser here.](https://somethingelse-skywoman.github.io/ChickenEnclosure/Hoop%20Connection%20-%20U%20Bolts/UBoltModel.xhtml)
+[View the model in your browser here.](https://skywoman.github.io/ChickenEnclosure/Hoop%20Connection%20-%20U%20Bolts/UBoltModel.xhtml)
 
-[Download the full 3D CAD model, bill of materials and sourcing guide, and manufacturing drawings here.](https://github.com/somethingelse-skywoman/ChickenEnclosure/releases/tag/v1.0.0) This includes each of the necessary components and sub-assemblies to build the full frame.
+[Download the full 3D CAD model, bill of materials and sourcing guide, and manufacturing drawings here.](https://github.com/skywoman/ChickenEnclosure/releases/tag/v1.0.0) This includes each of the necessary components and sub-assemblies to build the full frame.
 
-[The project webpage can be found here](https://somethingelse-skywoman.github.io/ChickenEnclosure/)
+[The project webpage can be found here](https://skywoman.github.io/ChickenEnclosure/)
 
 ![Wire Drawing](dist/Enclosure.png)
 
